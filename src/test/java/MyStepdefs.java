@@ -5,6 +5,7 @@ import cucumber.api.java.en.Given;
 import cucumber.api.java.en.When;
 
 public class MyStepdefs {
+    //
     HomePage homePage=new HomePage();
     TodaysDealPage todaysDealPage=new TodaysDealPage();
     @Given("^user is on homepage$")
